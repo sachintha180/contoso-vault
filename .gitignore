@@ -4,3 +4,4 @@ __pycache__/
 .vscode/
 accounts.json
 documents.json
+cards.json
