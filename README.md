@@ -27,6 +27,6 @@ Do these once, in Session 01:
 | Folder                                        | Session    | Use it to                                                                                                                                                                                                          |
 | --------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `01-first-encrypted-message/`                 | Session 01 | Keep your `shift.py` from class. Upload the lab to the LMS as one document.                                                                                                                                        |
-| `02-caesar-cipher-as-functions/`              | Session 02 | Keep your work from class here. The take-home test plan arrives before the session starts. |
+| `02-finishing-the-caesar-cipher/`              | Session 02 | Check `shift.py` against the take-home test plan. |
 
 The folder for each later session arrives here before that session starts.
